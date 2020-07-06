@@ -1,0 +1,16 @@
+{
+  "name": "mysql-table",
+  "version": "0.0.1",
+  "description": "mysql table model",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kseniya <kapriosa57@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mysql": "^2.17.1"
+  }
+}
